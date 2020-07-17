@@ -1,4 +1,1 @@
-Cancer Classification Problem
-Using 10 different classifiers
-for finding the best classifier
-to detect whether the cancer cell is malignant or benign
+This project is aimed at presenting an early breast cancer prognosis by using classification approach with ten different machine learning techniques namely Logistic Regression(LR), K-Nearest Neighbors(KNN), Decision Tree, Random Forest, Naive Bayes(NB), Adaboost Tree, Support Vector Machine (SVM), Radial Basis Function(RBF), Quadratic Discriminant Analysis(QDA) and Multi-Layer perceptron on the Wisconsin Breast Cancer (original) dataset The dataset features have been categorized into three sub-classes as mean, standard error and worst to compute the performance parameters using simulation tool Jupyter notebook.
